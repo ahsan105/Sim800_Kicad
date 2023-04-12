@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RS232_Interface_library")(type "KiCad")(uri "${KIPRJMOD}/RS232_Interface_library.pretty")(options "")(descr ""))
+)
